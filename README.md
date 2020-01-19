@@ -14,4 +14,4 @@ Please don't remove my Insta Link in the footer.
 
 <a href="https://ibb.co/6RBP3xC"><img src="https://i.ibb.co/bgJBSZ9/2020-01-19-14-27-04-Window.png" alt="2020-01-19-14-27-04-Window" border="2"></a>
 
-<a href="https://ibb.co/KqxfdkW"><img src="https://i.ibb.co/LtdcmW1/2020-01-19-14-27-24-Window.png" alt="2020-01-19-14-27-24-Window" border="2"/a>
+<a href="https://ibb.co/KqxfdkW"><img src="https://i.ibb.co/LtdcmW1/2020-01-19-14-27-24-Window.png" alt="2020-01-19-14-27-24-Window" border="2"></a>
